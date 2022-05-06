@@ -86,6 +86,7 @@ jobs:
     # - env: INSTANCE=loop4-loop5-debian-11-tiamat-py3
     # - env: INSTANCE=loop4-loop5-debian-10-tiamat-py3
     # - env: INSTANCE=loop4-loop5-debian-9-tiamat-py3
+    # - env: INSTANCE=loop4-loop5-ubuntu-2204-tiamat-py3
     # - env: INSTANCE=loop4-loop5-ubuntu-2004-tiamat-py3
     # - env: INSTANCE=loop4-loop5-ubuntu-1804-tiamat-py3
     # - env: INSTANCE=loop4-loop5-centos-stream8-tiamat-py3
@@ -101,6 +102,8 @@ jobs:
     # - env: INSTANCE=loop5-loop6-debian-10-master-py3
     # - env: INSTANCE=loop4-loop5-debian-9-master-py3
     # - env: INSTANCE=loop5-loop6-debian-9-master-py3
+    # - env: INSTANCE=loop4-loop5-ubuntu-2204-master-py3
+    # - env: INSTANCE=loop5-loop6-ubuntu-2204-master-py3
     # - env: INSTANCE=loop4-loop5-ubuntu-2004-master-py3
     # - env: INSTANCE=loop5-loop6-ubuntu-2004-master-py3
     # - env: INSTANCE=loop4-loop5-ubuntu-1804-master-py3
@@ -138,6 +141,7 @@ jobs:
     # - env: INSTANCE=loop4-loop5-debian-11-3004-1-py3
     # - env: INSTANCE=loop4-loop5-debian-10-3004-1-py3
     # - env: INSTANCE=loop4-loop5-debian-9-3004-1-py3
+    # - env: INSTANCE=loop4-loop5-ubuntu-2204-3004-1-py3
     # - env: INSTANCE=loop4-loop5-ubuntu-2004-3004-1-py3
     # - env: INSTANCE=loop4-loop5-ubuntu-1804-3004-1-py3
     # - env: INSTANCE=loop4-loop5-centos-stream8-3004-1-py3
