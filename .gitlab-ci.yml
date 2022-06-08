@@ -164,8 +164,6 @@ rubocop:
 # loop5-loop6-fedora-36-master-py3: {extends: '.test_instance_failure_permitted'}
 # loop4-loop5-fedora-35-master-py3: {extends: '.test_instance'}
 # loop5-loop6-fedora-35-master-py3: {extends: '.test_instance'}
-# loop4-loop5-fedora-34-master-py3: {extends: '.test_instance'}
-# loop5-loop6-fedora-34-master-py3: {extends: '.test_instance'}
 # loop4-loop5-opensuse-leap-153-master-py3: {extends: '.test_instance'}
 # loop5-loop6-opensuse-leap-153-master-py3: {extends: '.test_instance'}
 # loop4-loop5-opensuse-tmbl-latest-master-py3: {extends: '.test_instance_failure_permitted'}
@@ -196,7 +194,6 @@ rubocop:
 # loop4-loop5-centos-7-3004-1-py3: {extends: '.test_instance'}
 # loop4-loop5-fedora-36-3004-1-py3: {extends: '.test_instance_failure_permitted'}
 # loop4-loop5-fedora-35-3004-1-py3: {extends: '.test_instance'}
-# loop4-loop5-fedora-34-3004-1-py3: {extends: '.test_instance'}
 # loop4-loop5-amazonlinux-2-3004-1-py3: {extends: '.test_instance'}
 # loop4-loop5-oraclelinux-8-3004-1-py3: {extends: '.test_instance'}
 # loop4-loop5-oraclelinux-7-3004-1-py3: {extends: '.test_instance'}
@@ -217,14 +214,6 @@ rubocop:
 # loop4-loop5-oraclelinux-8-3003-4-py3: {extends: '.test_instance'}
 # loop4-loop5-oraclelinux-7-3003-4-py3: {extends: '.test_instance'}
 # loop4-loop5-almalinux-8-3003-4-py3: {extends: '.test_instance'}
-# loop4-loop5-debian-10-3002-8-py3: {extends: '.test_instance'}
-# loop4-loop5-debian-9-3002-8-py3: {extends: '.test_instance'}
-# loop4-loop5-ubuntu-2004-3002-8-py3: {extends: '.test_instance'}
-# loop4-loop5-ubuntu-1804-3002-8-py3: {extends: '.test_instance'}
-# loop4-loop5-centos-7-3002-8-py3: {extends: '.test_instance'}
-# loop4-loop5-amazonlinux-2-3002-8-py3: {extends: '.test_instance'}
-# loop4-loop5-oraclelinux-8-3002-8-py3: {extends: '.test_instance'}
-# loop4-loop5-oraclelinux-7-3002-8-py3: {extends: '.test_instance'}
 # yamllint enable rule:line-length
 
 ###############################################################################
